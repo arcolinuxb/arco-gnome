@@ -344,7 +344,7 @@ lsb-release
 mlocate
 nomacs
 p7zip
-#plank
+plank
 playerctl
 polkit
 polkit-gnome
@@ -388,7 +388,7 @@ zsh-syntax-highlighting
 
 #xfce4
 #gtk-xfce-engine
-xfce4
+#xfce4
 #mousepad
 #xfce4-goodies
 
@@ -523,12 +523,20 @@ calamares
 boost-libs
 arcolinuxb-calamares-gnome-git
 
+#xfce minimal desktop for iso
+xfce4-session
+xfdesktop
+xfwm4
+xfce4-panel
+
 #Desktop specific
 gnome
 gnome-extra
-thunar
 libappindicator-gtk3
 nautilus-image-converter
 gnome-mplayer
 gnome-multi-writer
 gnome-pie
+
+#Personal
+thunar
