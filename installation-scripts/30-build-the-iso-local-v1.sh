@@ -15,7 +15,6 @@
 #Setting variables
 #Let us change the name"
 #First letter of desktop small
-#cinnamon is too long - max 32 and then it is 33
 desktop="gnome"
 
 #build.sh
@@ -55,10 +54,10 @@ echo "################################################################## "
 echo "Phase 2 : Getting the latest versions for some important files"
 echo "################################################################## "
 echo
-echo "Removing the old packages.both file from work folder"
-rm ../work/archiso/packages.both
-echo "Copying the new packages.both file"
-cp -f ../archiso/packages.both ../work/archiso/packages.both
+echo "Removing the old packages.x86_64 file from work folder"
+rm ../work/archiso/packages.x86_64
+echo "Copying the new packages.x86_64 file"
+cp -f ../archiso/packages.x86_64 ../work/archiso/packages.x86_64
 
 echo "Removing old files/folders from /etc/skel"
 rm -rf ../work/archiso/airootfs/etc/skel/.* 2> /dev/null
