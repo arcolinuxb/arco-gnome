@@ -256,7 +256,6 @@ xcursor-simpleandsoft
 adobe-source-sans-pro-fonts
 awesome-terminal-fonts
 cantarell-fonts
-ckbcomp
 noto-fonts
 terminus-font
 ttf-bitstream-vera
@@ -524,6 +523,7 @@ arcolinux-xfce-thunar-git
 
 #Calamares installer
 calamares
+ckbcomp
 boost-libs
 arcolinuxb-calamares-gnome-git
 
