@@ -452,8 +452,6 @@ mintstick-git
 neofetch
 oh-my-zsh-git
 #oomox
-package-query
-#packer
 pamac-aur
 peek
 pulseaudio-equalizer-ladspa
@@ -468,7 +466,6 @@ urxvt-resize-font-git
 wttr
 yad
 yay-bin
-yaourt
 
 #xfce4
 #xfpanel-switch
