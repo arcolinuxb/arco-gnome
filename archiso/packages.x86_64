@@ -527,17 +527,17 @@ arcolinux-xfce-thunar-git
 
 #xfce4 also for ArcoLinuxB iso builds
 #xfce4 group content
-exo
+#exo
 #garcon
 #gtk-xfce-engine
-#thunar
+thunar
 #thunar-volman
 #tumbler
 #xfce4-appfinder
 xfce4-panel
 #xfce4-power-manager
 xfce4-session
-xfce4-settings
+#xfce4-settings
 #xfce4-terminal
 #xfconf
 xfdesktop
