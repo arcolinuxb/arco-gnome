@@ -607,7 +607,6 @@ calamares
 arcolinux-system-installation-git
 arcolinuxb-calamares-gnome-git
 ckbcomp
-networkmanager
 upower
 kcoreaddons
 kconfig
