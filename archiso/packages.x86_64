@@ -442,6 +442,7 @@ glxinfo
 grub-customizer
 hardcode-fixer-git
 inxi
+libappindicator-gtk3
 #menulibre
 mintstick-git
 #mugshot
@@ -618,11 +619,9 @@ plasma-framework
 hwinfo
 qt5-xmlpatterns
 
-
 #Desktop specific
 gnome
 gnome-extra
-#libappindicator-gtk3
 nautilus-image-converter
 gnome-mplayer
 gnome-multi-writer
