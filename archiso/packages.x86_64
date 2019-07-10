@@ -442,7 +442,6 @@ glxinfo
 grub-customizer
 hardcode-fixer-git
 inxi
-libappindicator-gtk3
 #menulibre
 mintstick-git
 #mugshot
@@ -628,3 +627,4 @@ gnome-mplayer
 gnome-multi-writer
 gnome-pie
 chrome-gnome-shell
+libappindicator-gtk3
