@@ -206,3 +206,11 @@ echo
 
 [ -d  ~/ArcoLinuxB-Out ] || mkdir ~/ArcoLinuxB-Out
 cp ~/arcolinuxb-build/archiso/out/arcolinux* ~/ArcoLinuxB-Out
+
+echo
+echo "################################################################## "
+echo "Phase 8 : Making sure we start with a clean slate next time"
+echo "################################################################## "
+echo
+echo "Deleting the build folder if one exists - takes some time"
+[ -d ~/arcolinuxb-build ] && sudo rm -rf ~/arcolinuxb-build
