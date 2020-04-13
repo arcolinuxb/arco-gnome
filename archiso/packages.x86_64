@@ -789,7 +789,7 @@ thunar-media-tags-plugin
 ###########################################################################
 
 gnome
-gnome-extra
+#gnome-extra
 nautilus-image-converter
 gnome-mplayer
 gnome-multi-writer
