@@ -603,7 +603,7 @@ arcolinux-config-all-desktops-git
 #arcolinux-config-enlightenment-git
 #arcolinux-config-fvwm3-git
 #arcolinux-config-git
-arcolinux-config-gnome-git
+#arcolinux-config-gnome-git
 #arcolinux-config-herbstluftwm-git
 #arcolinux-config-i3wm-git
 #arcolinux-config-icewm-git
