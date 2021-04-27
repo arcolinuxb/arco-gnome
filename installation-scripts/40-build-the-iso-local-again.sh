@@ -27,7 +27,7 @@ echo
 	#First letter of desktop is small letter
 
 	desktop="gnome"
-	dmDesktop="gnome"
+	dmDesktop="gnome-xorg"
 
 	arcolinuxVersion='v21.05.7'
 
@@ -144,7 +144,7 @@ echo
 	echo
 	echo "Git clone the latest ArcoLinux-iso from github"
 	echo
-	git clone https://github.com/arcolinux/arcolinux-iso ../work
+	git clone https://github.com/arcolinux/arcolinuxl-iso ../work
 
 	echo "Copying the Archiso folder to build work"
 	echo
