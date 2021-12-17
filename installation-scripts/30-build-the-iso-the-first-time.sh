@@ -29,7 +29,7 @@ echo
 	desktop="gnome"
 	dmDesktop="gnome-xorg"
 
-	arcolinuxVersion='v22.01.08'
+	arcolinuxVersion='v22.01.09'
 
 	isoLabel='arcolinuxb-'$desktop'-'$arcolinuxVersion'-x86_64.iso'
 
