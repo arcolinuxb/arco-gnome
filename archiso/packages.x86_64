@@ -734,6 +734,7 @@ squashfs-tools
 plasma-framework5
 hwinfo
 qt5-xmlpatterns
+
 adobe-source-han-sans-jp-fonts
 adobe-source-han-sans-kr-fonts
 adobe-source-han-sans-cn-fonts
@@ -931,6 +932,8 @@ thunar-media-tags-plugin
 ###########################################################################
 #                                ISO SPECIFIC
 ###########################################################################
+##arcolinux-apps
+sofirem-git
 
 gnome
 #gnome-extra
